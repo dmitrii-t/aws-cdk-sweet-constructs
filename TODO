@@ -1,0 +1,12 @@
+TODO Debug API Gateway spec failure
+----
+DONE Add API Gateway backed Lambda construct
+DONE Automate stack testing on aws env
+DONE Complete topic-queue-with-handler spec
+DONE Get stack outputs when creating it programmatically
+DONE Destroy app stack with AWS CDK programmatically
+DONE Fix `Empty test suite` message running lib/constructs/topic-queue-with-handler/index.spec.ts
+    Seems like Intellij IEDA bug https://github.com/facebook/jest/issues/7875#issuecomment-463122021 fixed
+    with _JB_INTELLIJ_JASMINE_REPORTER_DISABLED=true
+DONE Deploy app stack with AWS CDK programmatically
+DONE Fix "index.queueHandler is undefined
